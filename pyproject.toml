@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_adv_mla_2023"
-version = "0.1.0"
+version = "0.1.1"
 description = "A custom package for MDSI Advanced Machine Learning and Application 2023"
 authors = ["Chuanny Python"]
 license = "MIT"
